@@ -93,7 +93,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="808" />
     <option name="y" value="22" />
     <option name="width" value="1400" />
@@ -203,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587196989479" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587197356401" />
     <property name="last_opened_file_path" value="D:/git/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -387,12 +387,12 @@
       <workItem from="1587123720931" duration="3428000" />
       <workItem from="1587127167877" duration="3115000" />
       <workItem from="1587140607317" duration="5000" />
-      <workItem from="1587194998640" duration="1963000" />
+      <workItem from="1587194998640" duration="2209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8511000" />
+    <option name="totallyTimeSpent" value="8757000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
